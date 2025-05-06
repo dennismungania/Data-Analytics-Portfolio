@@ -1,1 +1,0 @@
-screenshots/placeholder.md
