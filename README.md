@@ -40,4 +40,4 @@ HR_Attrition_Project/
 ```
 
 ## Author
-Dennis Mungania – Graduate Student, MS in Business Analytics
+Dennis Mungania – University of Louisville Graduate Student, MS in Business Analytics
