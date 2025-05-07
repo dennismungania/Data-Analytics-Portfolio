@@ -17,11 +17,18 @@ The following preprocessing steps were done in Power Query:
 - Replaced `"None"` values with numeric `0` in `YearsAtCompany` and `YearsInCurrentRole` columns.
 - Filled blanks with `0` in the last 5 numerical columns.
 
+## DAX Measures
+
+A custom DAX measure was created to dynamically calculate the attrition rate:
+- **Attrition Rate** = `DIVIDE(SUM(FactHR_Data[Attrition_Count]), SUM(FactHR_Data[EmployeeCount]))`
+
+This measure supports real-time KPI updates based on applied filters across the dashboard.
+
 ## Tools Used
 - Power BI
 - Power Query (for data transformation)
 
-## How to Use
+## Getting Started  
 1. Download this repository.
 2. Open the Power BI report file (`HR_Attrition.pbix`) in Power BI Desktop.
 3. Explore the three interactive dashboard pages for insights on employee attrition.
@@ -40,4 +47,4 @@ HR_Attrition_Project/
 ```
 
 ## Author
-Dennis Mungania – University of Louisville Graduate Student, MS in Business Analytics
+Dennis Mungania – MS in Business Analytics
