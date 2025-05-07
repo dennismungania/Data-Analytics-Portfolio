@@ -31,18 +31,25 @@ Transformations applied in Power Query:
   - Replaced `"None"` with numeric `0` in `YearsAtCompany` and `YearsInCurrentRole`.
   - Replaced blanks with `0` in the last 5 numerical columns to avoid NA issues.
 
-## 4. Key Insights
+## 4. DAX Measures
+
+To support KPI tracking and custom calculations, the following DAX measure was created:
+- **Attrition Rate** = `DIVIDE(SUM(FactHR_Data[Attrition_Count]), SUM(FactHR_Data[EmployeeCount]))`
+
+This measure dynamically calculates the attrition rate across all visual filters, providing a responsive metric for trend analysis.
+
+## 5. Key Insights
 - Newer employees (0–2 years) are at higher risk of attrition.
 - Males have a higher attrition count.
 - Employees with lower work-life balance satisfaction or lower salaries are more likely to leave.
 - Certain roles, like Research Scientist, experience significantly higher turnover.
 
-## 5. Recommendations
+## 6. Recommendations
 - Improve onboarding and support for new hires.
 - Investigate causes of dissatisfaction in key roles.
 - Consider targeted retention strategies for employees in low salary brackets.
 
-## 6. Conclusion
+## 7. Conclusion
 
 This dashboard provides actionable insights into attrition patterns that can guide 
 HR and management teams in refining employee retention strategies.
