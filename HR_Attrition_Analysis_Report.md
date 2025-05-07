@@ -33,7 +33,7 @@ Transformations applied in Power Query:
 
 ## 4. Key Insights
 - Newer employees (0–2 years) are at higher risk of attrition.
-- Males have a higher attrition count, but the rate relative to total gender is not shown.
+- Males have a higher attrition count.
 - Employees with lower work-life balance satisfaction or lower salaries are more likely to leave.
 - Certain roles, like Research Scientist, experience significantly higher turnover.
 
