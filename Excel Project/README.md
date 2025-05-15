@@ -46,12 +46,6 @@ Recommendations:
 - Set Clear Fiscal Targets - Use budget rules or debt ceilings that encourage long-term planning and accountability in both Congress and federal agencies.
 
 - Bipartisan Action - Encourage cooperation between political parties to pass meaningful and lasting debt solutions, not just short-term fixes.
-
-
-## 📸 Preview
-
-![Dashboard](Screenshots/final_dashboard_view.png)
-
 ---
 
 
