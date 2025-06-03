@@ -71,7 +71,7 @@ This portfolio showcases end-to-end data projects ranging from data cleaning to 
 
 | Technical Skills              | Soft Skills                |
 |------------------------------|----------------------------|
-| SQL (MySQL, PostgreSQL)      | Communication              |
+| SQL (MySQL, PostgreSQL, SQL Server)      | Communication              |
 | Power BI, Tableau            | Team Collaboration         |
 | Python (Pandas, NumPy, Sklearn) | Analytical Thinking     |
 | R (ggplot2, dplyr)           | Problem Solving            |
