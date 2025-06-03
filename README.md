@@ -81,8 +81,8 @@ This portfolio showcases end-to-end data projects ranging from data cleaning to 
 
 ## 📬 Connect with Me
 
-- **LinkedIn**: [linkedin.com/in/dennismungania](www.linkedin.com/in/dennismungania)
-- **GitHub**: [github.com/dennismungania](https://github.com/dennismungania/Data-Analytics-Portfolio)
+- **LinkedIn**: (www.linkedin.com/in/dennismungania)
+- **GitHub**: (https://github.com/dennismungania/Data-Analytics-Portfolio)
 
 ---
 
