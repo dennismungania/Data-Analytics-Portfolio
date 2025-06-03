@@ -69,6 +69,7 @@ The dataset is stored in a MySQL table: `world_life_expectancy`. Key fields:
 
 ## 📁 Files Included
 
+-`WorldLifeExpectancy.sql` - SQL Script To define the schema (structure) of the dataset in your database. 
 - `World_Life_Expectancy_Full_Project.sql` – SQL scripts for cleaning and analysis
 - `World_Life_Expectancy_Report.md` – EDA report and insights
 - `README.md` – This project overview
